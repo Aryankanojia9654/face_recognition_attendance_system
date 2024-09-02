@@ -13,7 +13,7 @@ This project is a face recognition-based attendance system developed using OpenC
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/Arijit1080/Face-Recognition-Based-Attendance-System
+   git@github.com:Aryankanojia9654/face_recognition_attendance_system.git
 2.  **Install the Required Packages**
     
     Navigate to the project directory and install the required Python packages:
