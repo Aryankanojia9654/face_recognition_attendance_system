@@ -82,7 +82,7 @@ This project was developed by:
 -   Aryan Kanojia (2k22/EC/56)
 -   Akshay Tiwari (2k22/EC/26)
 -   Anurag Kumar (2k22/EC/46)
--   Anshit Gadi (2k22/EC/46)
+-   Anshit Gadi (2k22/EC/41)
 
 **Delhi Technological University, ECE Second Year, EIM Project.**
 
