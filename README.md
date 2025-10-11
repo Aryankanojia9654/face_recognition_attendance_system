@@ -78,7 +78,7 @@ This project is a face recognition-based attendance system developed using OpenC
 ## Acknowledgements
 
 This project was developed by:
-
+-   Chirag (2K22/EC/51)
 -   Aryan Kanojia (2k22/EC/56)
 -   Akshay Tiwari (2k22/EC/26)
 -   Anurag Kumar (2k22/EC/46)
